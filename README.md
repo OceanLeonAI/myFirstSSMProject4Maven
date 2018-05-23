@@ -1,0 +1,1 @@
+# myFirstSSMProject4Maven
